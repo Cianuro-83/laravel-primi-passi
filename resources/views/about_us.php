@@ -16,7 +16,7 @@
     <button><a href="chi_siamo">CHI SIAMO</a></button>
     <button><a href="servizi">SERVIZI</a></button>
     <button><a href="about_us">DICONO DI NOI</a></button>
-    <h1 style="color:red;">SERVIZI</h1>
+    <h1 style="color:red;">DICONO DI NOI</h1>
     <p style="color:white">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam necessitatibus dolorum ex,
         quis cupiditate optio
         et recusandae nam? Consequuntur omnis animi totam illo rerum.</p>
